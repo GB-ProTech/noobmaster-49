@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Kashif Aziz
-- 👀 I’m interested in Deveoping Web based softwares
+- 👀 I’m interested in Developing Web based softwares
 - 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on Web deveopment
 - 📫 You can reach me through my twitter @mrHunzai49
