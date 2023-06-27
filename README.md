@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Kashif Aziz
-- 👀 I’m interested in Developing Web based softwares
-- 🌱 I’m currently learning React
-- 💞️ I’m looking to collaborate on Web deveopment
+- 👀 I’m interested in Artificial Intelligence
+- 🌱 I’m currently Learning Data Science and Machine Learning
+- 💞️ I’m looking to collaborate on Data Science Projects
 - 📫 You can reach me through my twitter @mrHunzai49
 
 <!---
