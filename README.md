@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Kashif Aziz
 - 👀 I’m interested in Artificial Intelligence
-- 🌱 I’m currently Learning Data Science and Machine Learning
-- 💞️ I’m looking to collaborate on Data Science Projects
+- 🌱 I’m currently Learning Data Science and Computer Vision
+- 💞️ I’m looking to collaborate on Computer Vision Projects
 - 📫 You can reach me through my twitter @mrHunzai49
 
 <!---
